@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xl="http://www.w3.org/1999/xlink" version="1.1" viewBox="235.5625 438 135 38" width="135pt" height="38pt" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <metadata> Produced by OmniGraffle 7.4.1 
+    <dc:date>2017-10-22 13:27:11 +0000</dc:date>
+  </metadata>
+  <defs>
+    <font-face font-family="Roboto Mono for Powerline" font-size="23" units-per-em="1000" underline-position="-73.24219" underline-thickness="48.828125" slope="0" x-height="538.08594" cap-height="720.7031" ascent="927.7344" descent="-244.14062" font-weight="bold">
+      <font-face-src>
+        <font-face-name name="RobotoMonoForPowerline-Bold"/>
+      </font-face-src>
+    </font-face>
+  </defs>
+  <g stroke="none" stroke-opacity="1" stroke-dasharray="none" fill="none" fill-opacity="1">
+    <title>版面 2</title>
+    <rect fill="white" width="135" height="38"/>
+    <g>
+      <title>图层 1</title>
+      <text transform="translate(240.5625 443.5)" fill="#ebebeb">
+        <tspan font-family="Roboto Mono for Powerline" font-size="23" font-weight="bold" fill="#ebebeb" x=".3898926" y="21" textLength="124.22021">SPACE-VIM</tspan>
+      </text>
+    </g>
+  </g>
+</svg>

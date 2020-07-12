@@ -1,0 +1,59 @@
+baseURL = "https://liuchengxu.github.io/space-vim-doc/"
+languageCode = "en-us"
+title = "Space-vim: Lean & mean spacemacs-ish Vim distribution"
+enableGitInfo = true
+enableEmoji = true
+publishDir = "public"
+
+theme = "hugo-theme-learn"
+
+[outputs]
+home = [ "HTML", "RSS", "JSON"]
+
+[params]
+editURL = "https://github.com/liuchengxu/space-vim-doc/tree/master/content/"
+author = "liuchengxu"
+description = "Lean & mean spacemacs-ish Vim distribution"
+
+[Languages]
+[Languages.en]
+title = "Documentation for space-vim"
+weight = 1
+languageName = "English"
+
+[Languages.zh]
+title = "space-vim 文档"
+weight = 1
+languageName = "中文"
+
+[[Languages.en.menu.shortcuts]]
+name = "<i class='fa fa-github'></i>  GitHub"
+identifier = "ds"
+url = "https://github.com/liuchengxu/space-vim"
+weight = 10
+
+[[Languages.en.menu.shortcuts]]
+name = "<i class='fa fa-camera'></i> Screenshots"
+url = "/screenshots"
+weight = 11
+
+[[Languages.en.menu.shortcuts]]
+name = "<i class='fa fa-bullhorn'></i> Credits"
+url = "/credits"
+weight = 30
+
+[[Languages.zh.menu.shortcuts]]
+name = "<i class='fa fa-github'></i> Github"
+identifier = "ds"
+url = "https://github.com/liuchengxu/space-vim"
+weight = 10
+
+[[Languages.zh.menu.shortcuts]]
+name = "<i class='fa fa-camera'></i> 运行截图"
+url = "/screenshots"
+weight = 11
+
+[[Languages.zh.menu.shortcuts]]
+name = "<i class='fa fa-bullhorn'></i> 致谢"
+url = "/credits"
+weight = 30
